@@ -1,11 +1,8 @@
 
 /* Your CSS Code here. */
 .joinBtn {
-    width: 10em;
-    height: 5ex;
     background-color: yellow;
     border-radius: 5px;
-    font-weight: bold;
     color: white;
 }
 
