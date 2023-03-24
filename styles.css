@@ -1,12 +1,13 @@
 
 /* Your CSS Code here. */
 .joinBtn {
-    background-color: yellow;
+    background-color: black;
     border-radius: 5px;
     color: white;
 }
 
 .joinBtn:hover {
-    background-color: black;
+    background-color: yellow;
 	border-radius: 30px;
+	color: black;
 }
